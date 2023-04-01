@@ -18,7 +18,7 @@ _python criador_planilhas_excel.py_
 O programa irá solicitar o mês desejado e os dados do novo cadastro, adicionando-os à planilha correspondente ao mês escolhido.
 As planilhas são salvas em uma pasta chamada planilhas, criada automaticamente pelo programa se ainda não existir.
 
-##Limitações
+## Limitações
 Este programa possui algumas limitações:
 
 O programa só permite que um cadastro seja adicionado por vez.
